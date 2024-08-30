@@ -1,4 +1,4 @@
-[![Screenshot of the Website](https://raw.githubusercontent.com/teme2024/teme2024.github.io/master/banner1.jpg)](https://teme2024.github.io/teme2024/)
+[![Screenshot of the Website](https://raw.githubusercontent.com/teme2024/teme2024.github.io/master/assets/banner1.jpg)](https://teme2024.github.io/teme2024/)
 
 
 
