@@ -3,7 +3,7 @@
 
 
 ## Theory and Experiments in Monetary Economics Conference 2024
-### 11 & 12 October
+### 11-12 October
 ### Indiana University Bloomington
 
 
